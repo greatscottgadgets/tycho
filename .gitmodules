@@ -1,0 +1,3 @@
+[submodule "gsg-kicad-lib"]
+	path = gsg-kicad-lib
+	url = git@github.com:yhetti/gsg-kicad-lib.git
