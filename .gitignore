@@ -8,6 +8,7 @@
 *.kicad_pcb-bak
 *.sch-bak
 *~
+*tycho-bakups/*
 _autosave-*
 *.tmp
 *-save.pro

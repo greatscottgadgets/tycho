@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "gsg-symbols")(type "Legacy")(uri "/home/yhetti/tycho/gsg-kicad-lib/gsg-symbols.lib")(options "")(descr ""))
+  (lib (name "tycho")(type "KiCad")(uri "${KIPRJMOD}/tycho.kicad_sym")(options "")(descr ""))
+)
