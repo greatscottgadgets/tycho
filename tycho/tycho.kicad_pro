@@ -346,7 +346,7 @@
       "USB-C_TARGET-C_PORT"
     ],
     [
-      "6d4d1dc7-c217-42aa-9567-dc1ba1b5b387",
+      "1e9edba2-47cf-4fe0-bfb8-6481f7c22774",
       "GND_SW"
     ],
     [
@@ -412,6 +412,14 @@
     [
       "531f3229-5ca5-4f21-8a01-5a0c7ab7490f",
       "D+-3"
+    ],
+    [
+      "1e9edba2-47cf-4fe0-bfb8-6481f7c22774",
+      "GND_SW"
+    ],
+    [
+      "1e9edba2-47cf-4fe0-bfb8-6481f7c22774",
+      "GND_SW"
     ]
   ],
   "text_variables": {}
