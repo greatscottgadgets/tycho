@@ -346,10 +346,6 @@
       "USB-C_TARGET-C_PORT"
     ],
     [
-      "1e9edba2-47cf-4fe0-bfb8-6481f7c22774",
-      "GND_SW"
-    ],
-    [
       "7512a4a8-456f-449f-89c1-f6f576943699",
       "VBUS_SW"
     ],
@@ -396,14 +392,6 @@
     [
       "adaa3f42-a370-4a4c-b378-51d1ea5352f8",
       "D+-"
-    ],
-    [
-      "1e9edba2-47cf-4fe0-bfb8-6481f7c22774",
-      "GND_SW"
-    ],
-    [
-      "1e9edba2-47cf-4fe0-bfb8-6481f7c22774",
-      "GND_SW"
     ]
   ],
   "text_variables": {}
