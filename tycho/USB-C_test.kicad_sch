@@ -578,7 +578,7 @@
     (property "Sheet name" "GND_SW" (id 0) (at 62.23 53.8984 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "DMG9926UDM.kicad_sch" (id 1) (at 62.23 63.4496 0)
+    (property "Sheet file" "BSS138.kicad_sch" (id 1) (at 62.23 63.4496 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "GND_EUT" passive (at 89.535 57.15 0)
