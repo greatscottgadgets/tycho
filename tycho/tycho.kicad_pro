@@ -342,10 +342,6 @@
       "SIG1"
     ],
     [
-      "dc9aa8be-1f99-4144-bdbf-89710ba60087",
-      "SIG"
-    ],
-    [
       "66a4dd1c-7865-4ccb-97e4-f69a25782fda",
       "USB-C_AUX_PORT"
     ],
@@ -360,10 +356,6 @@
     [
       "a89a1690-33ce-414f-8060-40903db94159",
       "USB-C_TARGET-C_PORT"
-    ],
-    [
-      "79f2b498-8b13-44b0-94c5-a90e8fa1ac46",
-      "CC_SWs"
     ],
     [
       "9b3c6610-b831-468d-ab1f-f894c88e1ba4",

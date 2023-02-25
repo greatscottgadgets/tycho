@@ -405,7 +405,7 @@
     (uuid efaabd11-3fa7-4d5f-8d1e-980b8a6dc761)
   )
 
-  (text "Support C/R on TC7USB40FTs sets these switches\nto \"make before break\". (?)"
+  (text "Support C/R on TC7USB40FTs sets these switches\nto \"break before make\". (?)"
     (at 60.325 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 62561b28-6149-4241-b635-c5a77aa37268)
