@@ -791,7 +791,7 @@
   (symbol (lib_id "tycho:TC7USB42") (at 145.415 94.615 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74af83db-188e-478d-946e-80257d1c6ddb)
-    (property "Reference" "U1" (at 147.3709 86.0331 0)
+    (property "Reference" "U3" (at 147.3709 86.0331 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 146.685 99.695 0)
