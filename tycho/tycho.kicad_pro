@@ -378,6 +378,10 @@
       "VBUS_test"
     ],
     [
+      "175ec40e-e1eb-4798-86e4-603e661ed6e0",
+      "Boost_converter"
+    ],
+    [
       "6607aff4-62cd-44ff-864b-dbc4297afbc1",
       "VBUS_SW1"
     ],
