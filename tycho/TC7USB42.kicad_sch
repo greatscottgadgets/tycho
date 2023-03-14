@@ -467,9 +467,6 @@
     (pin "1" (uuid b6181a80-853f-463c-93da-7f837d306d8d))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -514,9 +511,6 @@
     (pin "2" (uuid a6dd8be2-117c-4fd4-9a15-87a43cec4c88))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "R?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "R?") (unit 1)
         )
@@ -548,9 +542,6 @@
     (pin "1" (uuid fb06e8f0-dc38-4ebe-9f47-29f135eacd8f))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -582,9 +573,6 @@
     (pin "1" (uuid 7f4d80ae-803c-4940-b31a-b1e0e1c94b44))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -616,9 +604,6 @@
     (pin "1" (uuid 176e23cf-8538-4298-b7a5-8dfdfdef5bba))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -650,9 +635,6 @@
     (pin "1" (uuid 93ccddbc-86d6-41ac-9ddc-02fc981685bd))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -684,9 +666,6 @@
     (pin "1" (uuid 94380521-6ef4-4fec-9186-cfd5f37dc41c))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -728,9 +707,6 @@
     (pin "2" (uuid 4425bbfd-8d30-4d5f-8ff2-bde1b6733aa3))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "C?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "C?") (unit 1)
         )
@@ -772,9 +748,6 @@
     (pin "2" (uuid 00828332-ee1f-4693-8fa1-9c8507dcd8db))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "C?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "C?") (unit 1)
         )
@@ -815,9 +788,6 @@
     (pin "1" (uuid 52ee532b-8b2d-4e3c-97ef-370f0dbbc453))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "U3") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "U4") (unit 1)
         )
@@ -849,9 +819,6 @@
     (pin "1" (uuid a0877ebf-71d3-49f5-93e5-b2b75132872e))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -893,9 +860,6 @@
     (pin "2" (uuid d6a9d12d-3b26-46f0-9e4b-823d1f0702cb))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "R?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "R?") (unit 1)
         )
@@ -927,9 +891,6 @@
     (pin "1" (uuid 0e9d1da5-3a6b-4508-892e-ef884b17c499))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "#PWR?") (unit 1)
         )
@@ -971,9 +932,6 @@
     (pin "2" (uuid cc9bc539-7b55-45b8-9d64-e2bab4270845))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "C?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "C?") (unit 1)
         )
@@ -1015,9 +973,6 @@
     (pin "2" (uuid d8faae74-61b2-4525-803c-5236f080ac71))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/4cd5eb71-b666-483b-b2b2-2959495ac855"
-          (reference "R?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "R?") (unit 1)
         )

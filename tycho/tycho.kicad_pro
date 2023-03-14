@@ -342,6 +342,10 @@
       "SIG1"
     ],
     [
+      "ace24f39-4906-4a18-9ada-94bef7c6aa0a",
+      "VBUS3"
+    ],
+    [
       "66a4dd1c-7865-4ccb-97e4-f69a25782fda",
       "USB-C_AUX_PORT"
     ],
@@ -358,36 +362,40 @@
       "USB-C_TARGET-C_PORT"
     ],
     [
+      "5f00af97-c234-4829-ac52-35727646fc48",
+      "VBUS1"
+    ],
+    [
       "9b3c6610-b831-468d-ab1f-f894c88e1ba4",
-      "VBUS_test1"
+      "VBUS_test"
     ],
     [
       "1fc6e58d-98ab-4c2d-ad9a-c3b5309a8064",
       "D+-2"
     ],
     [
+      "774bfd13-694d-4fe5-9617-36d1fb421477",
+      "VBUS2"
+    ],
+    [
       "8876033f-59b5-457d-906d-21461e28603f",
       "USB-C_CONTROL_PORT"
     ],
     [
-      "4cd5eb71-b666-483b-b2b2-2959495ac855",
-      "D+-3"
+      "c8da8b10-5680-49c7-9cf7-6d45da44745e",
+      "VBUS4"
     ],
     [
-      "79d17308-afb3-46f1-9960-5bb06ecc928b",
-      "VBUS_test"
+      "6b465339-cbb6-4173-944a-7dadd5c990c0",
+      "VBUS5"
     ],
     [
       "175ec40e-e1eb-4798-86e4-603e661ed6e0",
       "Boost_converter"
     ],
     [
-      "6607aff4-62cd-44ff-864b-dbc4297afbc1",
-      "VBUS_SW1"
-    ],
-    [
-      "9a822d90-345b-4b14-8982-c9f2aff44991",
-      "VBUS_SW2"
+      "2fca0f18-9772-4836-b2f7-4f1497e4f9c1",
+      "VBUS"
     ],
     [
       "adaa3f42-a370-4a4c-b378-51d1ea5352f8",
