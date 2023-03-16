@@ -342,6 +342,10 @@
       "SIG1"
     ],
     [
+      "0ff297ae-4244-4c85-8250-64b5583fb6c9",
+      "VBUS3"
+    ],
+    [
       "66a4dd1c-7865-4ccb-97e4-f69a25782fda",
       "USB-C_AUX_PORT"
     ],
@@ -376,6 +380,10 @@
     [
       "8876033f-59b5-457d-906d-21461e28603f",
       "USB-C_CONTROL_PORT"
+    ],
+    [
+      "c302ace8-b37c-4cab-8f5c-7defb4c905eb",
+      "VBUS4"
     ],
     [
       "175ec40e-e1eb-4798-86e4-603e661ed6e0",
