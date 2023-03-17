@@ -386,6 +386,10 @@
       "VBUS4"
     ],
     [
+      "fd07ceac-db1b-4660-8991-f4b887546035",
+      "MUX1"
+    ],
+    [
       "175ec40e-e1eb-4798-86e4-603e661ed6e0",
       "Boost_converter"
     ],
