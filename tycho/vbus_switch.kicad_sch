@@ -751,12 +751,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "R32") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "R9") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "R42") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -806,12 +800,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "R35") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "R39") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "R45") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -858,12 +846,6 @@
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "Q11") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "Q16") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "Q20") (unit 1)
         )
       )
       (project "luna_rev0"
@@ -915,12 +897,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "Q12") (unit 2)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "Q17") (unit 2)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "Q21") (unit 2)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -971,12 +947,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "Q13") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "Q18") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "Q22") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -1024,12 +994,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "Q14") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "Q19") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "Q23") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -1075,12 +1039,6 @@
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "D3") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "D4") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "D5") (unit 1)
         )
       )
       (project "luna_rev0"
@@ -1132,12 +1090,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "Q12") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "Q17") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "Q21") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -1186,12 +1138,6 @@
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "R33") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "R10") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "R43") (unit 1)
         )
       )
       (project "luna_rev0"
@@ -1242,12 +1188,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "R37") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "R41") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "R47") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -1296,12 +1236,6 @@
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "R36") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "R40") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "R46") (unit 1)
         )
       )
       (project "luna_rev0"
@@ -1352,12 +1286,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "R34") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "R38") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "R44") (unit 1)
-        )
       )
       (project "luna_rev0"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/490fda6e-4eae-4b35-a875-405b51914829"
@@ -1393,12 +1321,6 @@
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
           (reference "#PWR045") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/0ff297ae-4244-4c85-8250-64b5583fb6c9"
-          (reference "#PWR023") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/c302ace8-b37c-4cab-8f5c-7defb4c905eb"
-          (reference "#PWR031") (unit 1)
         )
       )
       (project "luna_rev0"

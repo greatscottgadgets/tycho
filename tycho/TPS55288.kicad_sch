@@ -1643,9 +1643,6 @@
     (pin "1" (uuid ee6e7904-c387-458d-a216-ef321b08a190))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/9b3c6610-b831-468d-ab1f-f894c88e1ba4"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
           (reference "#PWR021") (unit 1)
         )
@@ -1687,9 +1684,6 @@
     (pin "2" (uuid 3be0919d-faca-4627-8671-2bea19baaf6f))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/9b3c6610-b831-468d-ab1f-f894c88e1ba4"
-          (reference "R?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
           (reference "R8") (unit 1)
         )
