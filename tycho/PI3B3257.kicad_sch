@@ -277,6 +277,7 @@
     )
   )
 
+
   (junction (at 158.75 88.9) (diameter 0) (color 0 0 0 0)
     (uuid 103e543e-001c-4ff7-ba30-626ca268d429)
   )
@@ -477,7 +478,7 @@
   (symbol (lib_id "power:GND") (at 146.05 69.85 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54dcbd5e-1893-48f0-90b4-000e3d375d90)
-    (property "Reference" "#PWR?" (at 146.05 63.5 0)
+    (property "Reference" "#PWR0117" (at 146.05 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 147.955 69.0138 0)
@@ -493,10 +494,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0117") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0121") (unit 1)
         )
       )
     )
@@ -546,7 +547,7 @@
   (symbol (lib_id "power:VCC") (at 147.32 86.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ea64837-9100-42ec-b028-eff2cdac101f)
-    (property "Reference" "#PWR?" (at 143.51 86.36 0)
+    (property "Reference" "#PWR0115" (at 143.51 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 150.495 86.7938 90)
@@ -562,10 +563,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0115") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0119") (unit 1)
         )
       )
     )
@@ -626,7 +627,7 @@
   (symbol (lib_id "power:VCC") (at 158.75 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f18336f7-11c4-48d4-b0bf-97721ba64ec3)
-    (property "Reference" "#PWR?" (at 158.75 82.55 0)
+    (property "Reference" "#PWR0116" (at 158.75 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 156.845 74.93 0)
@@ -642,10 +643,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0116") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
@@ -654,7 +655,7 @@
   (symbol (lib_id "power:GND") (at 121.92 104.14 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f578f1c2-2c41-4b8d-a118-d7fae25e9f35)
-    (property "Reference" "#PWR?" (at 115.57 104.14 0)
+    (property "Reference" "#PWR0114" (at 115.57 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 118.7451 104.5738 90)
@@ -670,10 +671,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0114") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0118") (unit 1)
         )
       )
     )
