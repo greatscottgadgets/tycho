@@ -108,7 +108,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
@@ -439,7 +439,7 @@
   (symbol (lib_id "Device:C") (at 146.05 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b1d6947-6e40-4d7c-91e1-e0434f7560fd)
-    (property "Reference" "C?" (at 140.335 74.93 0)
+    (property "Reference" "C28" (at 140.335 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 139.7 78.74 0)
@@ -465,10 +465,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "C?") (unit 1)
+          (reference "C28") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "C?") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -505,7 +505,7 @@
   (symbol (lib_id "Device:R") (at 158.75 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 751b2cce-688b-4d29-a92c-889a7a79a874)
-    (property "Reference" "R?" (at 154.305 84.455 0)
+    (property "Reference" "R41" (at 154.305 84.455 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 158.75 85.09 90)
@@ -534,10 +534,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "R?") (unit 1)
+          (reference "R41") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "R?") (unit 1)
+          (reference "R42") (unit 1)
         )
       )
     )
@@ -574,7 +574,7 @@
   (symbol (lib_id "tycho:PI3B3257") (at 134.62 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2d763a7-5d62-42ff-84d9-4ca4ce0e1cc9)
-    (property "Reference" "U?" (at 134.62 80.171 0)
+    (property "Reference" "U12" (at 134.62 80.171 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PI3B3257" (at 134.62 82.7079 0)
@@ -614,10 +614,10 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "U?") (unit 1)
+          (reference "U12") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "U?") (unit 1)
+          (reference "U13") (unit 1)
         )
       )
     )

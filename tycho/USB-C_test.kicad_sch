@@ -449,7 +449,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle") (at 149.86 88.9 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54e39c0d-b615-41d1-8e58-0b05ef29a4c2)
-    (property "Reference" "J?" (at 146.05 75.0402 90)
+    (property "Reference" "J13" (at 146.05 75.0402 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB_C_Receptacle" (at 146.05 77.5771 90)
@@ -498,13 +498,13 @@
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/8876033f-59b5-457d-906d-21461e28603f"
-          (reference "J?") (unit 1)
+          (reference "J13") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/66a4dd1c-7865-4ccb-97e4-f69a25782fda"
-          (reference "J?") (unit 1)
+          (reference "J11") (unit 1)
         )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/a89a1690-33ce-414f-8060-40903db94159"
-          (reference "J?") (unit 1)
+          (reference "J12") (unit 1)
         )
       )
     )
