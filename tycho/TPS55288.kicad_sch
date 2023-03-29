@@ -541,7 +541,7 @@
         )
       )
       (symbol "TPS55288_1_0"
-        (pin power_out line (at 22.86 1.27 180) (length 2.54)
+        (pin power_in line (at 22.86 1.27 180) (length 2.54)
           (name "AGND" (effects (font (size 1.27 1.27))))
           (number "10" (effects (font (size 1.27 1.27))))
         )
@@ -601,7 +601,7 @@
           (name "SW1" (effects (font (size 1.27 1.27))))
           (number "23" (effects (font (size 1.27 1.27))))
         )
-        (pin power_out line (at 22.86 3.81 180) (length 2.54)
+        (pin power_in line (at 22.86 3.81 180) (length 2.54)
           (name "PGND" (effects (font (size 1.27 1.27))))
           (number "24" (effects (font (size 1.27 1.27))))
         )
@@ -637,7 +637,7 @@
           (name "FSW" (effects (font (size 1.27 1.27))))
           (number "8" (effects (font (size 1.27 1.27))))
         )
-        (pin power_out line (at 22.86 6.35 180) (length 2.54)
+        (pin power_in line (at 22.86 6.35 180) (length 2.54)
           (name "PGND" (effects (font (size 1.27 1.27))))
           (number "9" (effects (font (size 1.27 1.27))))
         )
@@ -650,6 +650,7 @@
       )
     )
   )
+
 
   (junction (at 199.39 87.63) (diameter 0) (color 0 0 0 0)
     (uuid 0dae0700-ad81-44db-afa5-80da0fd2da49)

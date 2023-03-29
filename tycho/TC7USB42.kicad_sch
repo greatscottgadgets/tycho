@@ -215,7 +215,7 @@
           (name "D-" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
         )
-        (pin power_out line (at 0 -10.16 90) (length 2.54)
+        (pin power_in line (at 0 -10.16 90) (length 2.54)
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
@@ -252,6 +252,7 @@
       )
     )
   )
+
 
   (junction (at 127 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 154e6ba1-007e-4f85-b8c4-addbe7108d70)

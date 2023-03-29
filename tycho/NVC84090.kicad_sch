@@ -167,7 +167,7 @@
           (name "CS_EN" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
         )
-        (pin power_out line (at 3.81 -8.89 90) (length 2.54)
+        (pin power_in line (at 3.81 -8.89 90) (length 2.54)
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
@@ -204,6 +204,7 @@
       )
     )
   )
+
 
   (junction (at 148.59 95.25) (diameter 0) (color 0 0 0 0)
     (uuid b0449163-362b-4f6e-a7a7-af6b03730dd6)
