@@ -503,7 +503,6 @@
     )
   )
 
-
   (junction (at 151.13 96.52) (diameter 0) (color 0 0 0 0)
     (uuid 035abfd8-e29e-468c-9c0e-2fedad3be9ac)
   )
@@ -1013,7 +1012,7 @@
     (property "Value" "6.2±2%" (at 114.3 79.3719 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "luna:DFN1006-2" (at 121.92 76.2 0)
+    (property "Footprint" "tycho:DFN1006-2" (at 121.92 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BZX884_BC_SER.pdf" (at 121.92 76.2 0)
