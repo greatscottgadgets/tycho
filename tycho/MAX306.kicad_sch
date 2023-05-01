@@ -432,7 +432,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f6e8428e-c132-49ce-bdbe-79d88aaff291)
   )
-  (hierarchical_label "VDC_test" (shape output) (at 173.99 81.28 0) (fields_autoplaced)
+  (hierarchical_label "COM" (shape output) (at 173.99 81.28 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f97ac0b0-2ef7-4814-a2f0-fc5bd060d1e5)
   )
