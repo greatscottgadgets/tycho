@@ -1,7 +1,7 @@
 (kicad_pcb (version 20221018) (generator pcbnew)
 
   (general
-    (thickness 1.6)
+    (thickness 1.646)
   )
 
   (paper "A4")
@@ -38,7 +38,21 @@
   )
 
   (setup
-    (pad_to_mask_clearance 0)
+    (stackup
+      (layer "F.SilkS" (type "Top Silk Screen"))
+      (layer "F.Paste" (type "Top Solder Paste"))
+      (layer "F.Mask" (type "Top Solder Mask") (color "Purple") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "F.Cu" (type "copper") (thickness 0.0356))
+      (layer "dielectric 1" (type "core") (color "FR4 natural") (thickness 1.524) (material "FR4") (epsilon_r 4.6) (loss_tangent 0.016))
+      (layer "B.Cu" (type "copper") (thickness 0.0356))
+      (layer "B.Mask" (type "Bottom Solder Mask") (color "Purple") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "B.Paste" (type "Bottom Solder Paste"))
+      (layer "B.SilkS" (type "Bottom Silk Screen"))
+      (copper_finish "None")
+      (dielectric_constraints no)
+    )
+    (pad_to_mask_clearance 0.0508)
+    (solder_mask_min_width 0.1016)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
