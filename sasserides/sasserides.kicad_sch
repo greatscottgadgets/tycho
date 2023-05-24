@@ -1446,7 +1446,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 110.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1102180a-1e5c-476b-abb6-bb1a34dcb578)
-    (property "Reference" "TP36" (at 97.79 109.22 90)
+    (property "Reference" "TPA0" (at 97.79 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A0" (at 97.79 111.76 90)
@@ -1471,7 +1471,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP36") (unit 1)
+          (reference "TPA0") (unit 1)
         )
       )
       (project "tycho"
@@ -1960,7 +1960,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 110.49 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 251f1f49-91d3-4db4-8762-cdc907cf4742)
-    (property "Reference" "TP21" (at 113.919 109.8463 90)
+    (property "Reference" "TPB0" (at 113.919 109.8463 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B0" (at 113.919 111.7673 90)
@@ -1985,7 +1985,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP21") (unit 1)
+          (reference "TPB0") (unit 1)
         )
       )
       (project "tycho"
@@ -2141,7 +2141,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 125.73 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d7bf1e5-3dcc-4f98-ba97-e9442634474b)
-    (property "Reference" "TP11" (at 97.79 124.46 90)
+    (property "Reference" "TPA3" (at 97.79 124.46 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A3" (at 97.79 127 90)
@@ -2166,7 +2166,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP11") (unit 1)
+          (reference "TPA3") (unit 1)
         )
       )
       (project "tycho"
@@ -2276,7 +2276,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 120.65 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35617b7c-f9d8-4c08-98c4-99d67c332844)
-    (property "Reference" "TP23" (at 113.919 120.0063 90)
+    (property "Reference" "TPB2" (at 113.919 120.0063 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B2" (at 113.919 121.9273 90)
@@ -2301,7 +2301,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP23") (unit 1)
+          (reference "TPB2") (unit 1)
         )
       )
       (project "tycho"
@@ -2525,7 +2525,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3d391e90-1bb5-4959-98c6-1f03fa311d9d)
-    (property "Reference" "TS11" (at 228.6 71.12 90)
+    (property "Reference" "TSA3" (at 228.6 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A3" (at 222.25 73.66 90)
@@ -2550,7 +2550,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS11") (unit 1)
+          (reference "TSA3") (unit 1)
         )
       )
       (project "tycho"
@@ -2681,7 +2681,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 43ae4e05-d19c-4567-a08a-5422e0eec739)
-    (property "Reference" "TS13" (at 228.6 81.28 90)
+    (property "Reference" "TSA5" (at 228.6 81.28 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A5" (at 222.25 83.82 90)
@@ -2706,7 +2706,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS13") (unit 1)
+          (reference "TSA5") (unit 1)
         )
       )
       (project "tycho"
@@ -2768,7 +2768,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d007bc5-1829-4a6d-982e-f5ffae0e4b62)
-    (property "Reference" "TP8" (at 97.79 114.3 90)
+    (property "Reference" "TPA1" (at 97.79 114.3 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A1" (at 97.79 116.84 90)
@@ -2793,7 +2793,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP8") (unit 1)
+          (reference "TPA1") (unit 1)
         )
       )
       (project "tycho"
@@ -2807,7 +2807,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 92.71 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d1da304-36eb-4be3-9fc2-9ad3d3865bdd)
-    (property "Reference" "TS34" (at 232.41 91.44 90)
+    (property "Reference" "TSB7" (at 232.41 91.44 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B7" (at 239.649 93.9873 90)
@@ -2832,7 +2832,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS34") (unit 1)
+          (reference "TSB7") (unit 1)
         )
       )
       (project "tycho"
@@ -2924,7 +2924,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55da4c74-aa55-4110-a94c-a707535527da)
-    (property "Reference" "TS8" (at 228.6 60.96 90)
+    (property "Reference" "TSA1" (at 228.6 60.96 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A1" (at 222.25 63.5 90)
@@ -2949,7 +2949,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS8") (unit 1)
+          (reference "TSA1") (unit 1)
         )
       )
       (project "tycho"
@@ -3196,7 +3196,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 135.89 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5df21d82-35bf-4e4b-beeb-c6637287b64b)
-    (property "Reference" "TP13" (at 97.79 134.62 90)
+    (property "Reference" "TPA5" (at 97.79 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A5" (at 97.79 137.16 90)
@@ -3221,7 +3221,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP13") (unit 1)
+          (reference "TPA5") (unit 1)
         )
       )
       (project "tycho"
@@ -3386,7 +3386,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 67.31 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66f803d1-e780-4c60-9df4-6e84e1a94700)
-    (property "Reference" "TS23" (at 232.41 66.04 90)
+    (property "Reference" "TSB2" (at 232.41 66.04 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B2" (at 239.649 68.5873 90)
@@ -3411,7 +3411,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS23") (unit 1)
+          (reference "TSB2") (unit 1)
         )
       )
       (project "tycho"
@@ -3425,7 +3425,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6766b5ee-42b8-4b04-b52d-6b71fd526e27)
-    (property "Reference" "TP10" (at 97.79 119.38 90)
+    (property "Reference" "TPA2" (at 97.79 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A2" (at 97.79 121.92 90)
@@ -3450,7 +3450,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP10") (unit 1)
+          (reference "TPA2") (unit 1)
         )
       )
       (project "tycho"
@@ -3639,7 +3639,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 721beda4-83b9-4942-a66c-baa10d7ec1e6)
-    (property "Reference" "TP29" (at 113.919 135.2463 90)
+    (property "Reference" "TPB5" (at 113.919 135.2463 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B5" (at 113.919 137.1673 90)
@@ -3664,7 +3664,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP29") (unit 1)
+          (reference "TPB5") (unit 1)
         )
       )
       (project "tycho"
@@ -3781,7 +3781,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 57.15 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 805378d7-2bad-4d49-bd3b-f628b8bdb532)
-    (property "Reference" "TS21" (at 232.41 55.88 90)
+    (property "Reference" "TSB0" (at 232.41 55.88 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B0" (at 239.649 58.4273 90)
@@ -3806,7 +3806,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS21") (unit 1)
+          (reference "TSB0") (unit 1)
         )
       )
       (project "tycho"
@@ -3820,7 +3820,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 140.97 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 80942a3c-b960-4b8b-9172-0a27b32af91e)
-    (property "Reference" "TP14" (at 97.79 139.7 90)
+    (property "Reference" "TPA6" (at 97.79 139.7 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A6" (at 97.79 142.24 90)
@@ -3845,7 +3845,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP14") (unit 1)
+          (reference "TPA6") (unit 1)
         )
       )
       (project "tycho"
@@ -3907,7 +3907,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 57.15 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82a39c07-956d-4778-b76b-4df23a72f767)
-    (property "Reference" "TS36" (at 228.6 55.88 90)
+    (property "Reference" "TSA0" (at 228.6 55.88 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A0" (at 222.25 58.42 90)
@@ -3932,7 +3932,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS36") (unit 1)
+          (reference "TSA0") (unit 1)
         )
       )
       (project "tycho"
@@ -4048,7 +4048,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8775a4df-1dfd-4c4e-845a-62deb5bbb15c)
-    (property "Reference" "TP22" (at 113.919 114.9263 90)
+    (property "Reference" "TPB1" (at 113.919 114.9263 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B1" (at 113.919 116.8473 90)
@@ -4073,7 +4073,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP22") (unit 1)
+          (reference "TPB1") (unit 1)
         )
       )
       (project "tycho"
@@ -4200,7 +4200,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 890540b8-34b3-47a2-bef4-5b6fd4048fcf)
-    (property "Reference" "TS33" (at 232.41 86.36 90)
+    (property "Reference" "TSB6" (at 232.41 86.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B6" (at 239.649 88.9073 90)
@@ -4225,7 +4225,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS33") (unit 1)
+          (reference "TSB6") (unit 1)
         )
       )
       (project "tycho"
@@ -4287,7 +4287,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 77.47 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b82cc7c-6608-4a1c-b26e-a17c4432d610)
-    (property "Reference" "TS25" (at 232.41 76.2 90)
+    (property "Reference" "TSB4" (at 232.41 76.2 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B4" (at 239.649 78.7473 90)
@@ -4312,7 +4312,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS25") (unit 1)
+          (reference "TSB4") (unit 1)
         )
       )
       (project "tycho"
@@ -4326,7 +4326,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 140.97 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8f130212-fab4-4d3b-b01b-c9cfaad4ebd7)
-    (property "Reference" "TP33" (at 113.919 140.3263 90)
+    (property "Reference" "TPB6" (at 113.919 140.3263 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B6" (at 113.919 142.2473 90)
@@ -4351,7 +4351,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP33") (unit 1)
+          (reference "TPB6") (unit 1)
         )
       )
       (project "tycho"
@@ -4527,7 +4527,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 82.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ba34793-76e7-4b2d-a673-ed0d079710a8)
-    (property "Reference" "TS29" (at 232.41 81.28 90)
+    (property "Reference" "TSB5" (at 232.41 81.28 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B5" (at 239.649 83.8273 90)
@@ -4552,7 +4552,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS29") (unit 1)
+          (reference "TSB5") (unit 1)
         )
       )
       (project "tycho"
@@ -4566,7 +4566,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e0208f1-976c-45c8-9f53-52ffbcc36a7e)
-    (property "Reference" "TS24" (at 232.41 71.12 90)
+    (property "Reference" "TSB3" (at 232.41 71.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B3" (at 239.649 73.6673 90)
@@ -4591,7 +4591,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS24") (unit 1)
+          (reference "TSB3") (unit 1)
         )
       )
       (project "tycho"
@@ -4605,7 +4605,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 62.23 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9f478be3-4d85-40a5-95a9-deb5b4fbe1e0)
-    (property "Reference" "TS22" (at 232.41 60.96 90)
+    (property "Reference" "TSB1" (at 232.41 60.96 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B1" (at 239.649 63.5073 90)
@@ -4630,7 +4630,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS22") (unit 1)
+          (reference "TSB1") (unit 1)
         )
       )
       (project "tycho"
@@ -4737,7 +4737,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a1b30f45-fe2b-4b88-9c74-44f4b4a1c5fc)
-    (property "Reference" "TP12" (at 97.79 129.54 90)
+    (property "Reference" "TPA4" (at 97.79 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A4" (at 97.79 132.08 90)
@@ -4762,7 +4762,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP12") (unit 1)
+          (reference "TPA4") (unit 1)
         )
       )
       (project "tycho"
@@ -4776,7 +4776,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a21300f4-e65c-4e5d-b525-7dc50c8c93ef)
-    (property "Reference" "TS16" (at 228.6 91.44 90)
+    (property "Reference" "TSA7" (at 228.6 91.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A7" (at 222.25 93.98 90)
@@ -4801,7 +4801,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS16") (unit 1)
+          (reference "TSA7") (unit 1)
         )
       )
       (project "tycho"
@@ -4854,7 +4854,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 130.81 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a2dda10a-9d85-47b7-bc71-240fc343b351)
-    (property "Reference" "TP25" (at 113.919 130.1663 90)
+    (property "Reference" "TPB4" (at 113.919 130.1663 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B4" (at 113.919 132.0873 90)
@@ -4879,7 +4879,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP25") (unit 1)
+          (reference "TPB4") (unit 1)
         )
       )
       (project "tycho"
@@ -4932,7 +4932,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a55b5485-2477-4b81-9d25-1f05a12c6fc0)
-    (property "Reference" "TS12" (at 228.6 76.2 90)
+    (property "Reference" "TSA4" (at 228.6 76.2 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A4" (at 222.25 78.74 90)
@@ -4957,7 +4957,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS12") (unit 1)
+          (reference "TSA4") (unit 1)
         )
       )
       (project "tycho"
@@ -5368,7 +5368,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bbce7e13-a353-4eda-a40a-27e44110fb80)
-    (property "Reference" "TS14" (at 228.6 86.36 90)
+    (property "Reference" "TSA6" (at 228.6 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A6" (at 222.25 88.9 90)
@@ -5393,7 +5393,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS14") (unit 1)
+          (reference "TSA6") (unit 1)
         )
       )
       (project "tycho"
@@ -5637,7 +5637,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 104.14 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cdb6ef70-67f1-42e0-85f8-6d51ab50ebf6)
-    (property "Reference" "TP16" (at 97.79 144.78 90)
+    (property "Reference" "TPA7" (at 97.79 144.78 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A7" (at 97.79 147.32 90)
@@ -5662,7 +5662,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP16") (unit 1)
+          (reference "TPA7") (unit 1)
         )
       )
       (project "tycho"
@@ -6028,7 +6028,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 125.73 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dcebc9b6-23af-4cac-aa78-19760595ac01)
-    (property "Reference" "TP24" (at 113.919 125.0863 90)
+    (property "Reference" "TPB3" (at 113.919 125.0863 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B3" (at 113.919 127.0073 90)
@@ -6053,7 +6053,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP24") (unit 1)
+          (reference "TPB3") (unit 1)
         )
       )
       (project "tycho"
@@ -6374,7 +6374,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 228.6 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f91a3242-39a0-4cfc-bc85-e103078b66bc)
-    (property "Reference" "TS10" (at 228.6 66.04 90)
+    (property "Reference" "TSA2" (at 228.6 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A2" (at 222.25 68.58 90)
@@ -6399,7 +6399,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TS10") (unit 1)
+          (reference "TSA2") (unit 1)
         )
       )
       (project "tycho"
@@ -6452,7 +6452,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 109.22 146.05 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fce1cc69-8fdb-4045-b978-ee2632ccaeaa)
-    (property "Reference" "TP34" (at 113.919 145.4063 90)
+    (property "Reference" "TPB7" (at 113.919 145.4063 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B7" (at 113.919 147.3273 90)
@@ -6477,7 +6477,7 @@
     (instances
       (project "sasserides"
         (path "/29d14f83-224e-4982-8820-b9fb63f3a50c"
-          (reference "TP34") (unit 1)
+          (reference "TPB7") (unit 1)
         )
       )
       (project "tycho"
