@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Tycho")
+    (date "${DATE}")
+    (rev "${VERSION}")
+    (company "Copyright 2023 Great Scott Gadgets")
+    (comment 1 "Licensed under the CERN-OHL-P v2")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_C_Receptacle_USB2.0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -10.16 19.05 0)
