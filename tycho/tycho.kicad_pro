@@ -593,5 +593,8 @@
       "D+-"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "DATE": "2023-05-24",
+    "VERSION": "r1.0.0"
+  }
 }
