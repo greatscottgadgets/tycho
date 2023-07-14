@@ -7633,7 +7633,7 @@
     (property "Value" "USB_C_Receptacle" (at 261.62 180.1735 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G" (at 257.81 162.56 0)
+    (property "Footprint" "tycho:USB_C_Receptacle_hand-solder" (at 257.81 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 257.81 162.56 0)
