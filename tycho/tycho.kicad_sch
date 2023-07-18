@@ -8041,7 +8041,7 @@
     (property "Value" "~" (at 495.3 185.42 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (at 495.3 185.42 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" (at 495.3 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9061.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1679528106325&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv9061" (at 495.3 185.42 0)
