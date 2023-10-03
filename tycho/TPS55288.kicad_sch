@@ -2423,12 +2423,6 @@
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
           (reference "R45") (unit 1)
         )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/d0ac0977-a41d-47c9-b69e-21eab7b0ce7d"
-          (reference "R3") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/1fc6e58d-98ab-4c2d-ad9a-c3b5309a8064"
-          (reference "R6") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
           (reference "R2") (unit 1)
         )
