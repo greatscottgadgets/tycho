@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.39999999999999997
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -393,7 +393,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -458,6 +458,22 @@
       {
         "netclass": "USB",
         "pattern": "*-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/FX2_EN"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/SIG2_E!"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "+24V"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/VDC_SW1/+24V"
       }
     ]
   },
@@ -534,8 +550,8 @@
       "USB-C_AUX_PORT"
     ],
     [
-      "d0ac0977-a41d-47c9-b69e-21eab7b0ce7d",
-      "D+-1"
+      "6d08e03c-4f34-4618-a021-d4fe7d47286c",
+      "VDC_SW1"
     ],
     [
       "b101adbb-56d2-408d-a053-b060f8f597ee",
@@ -548,10 +564,6 @@
     [
       "5f00af97-c234-4829-ac52-35727646fc48",
       "VBUS1"
-    ],
-    [
-      "1fc6e58d-98ab-4c2d-ad9a-c3b5309a8064",
-      "D+-2"
     ],
     [
       "774bfd13-694d-4fe5-9617-36d1fb421477",
@@ -578,8 +590,20 @@
       "HOST_VBUS_EN"
     ],
     [
+      "b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734",
+      "Cypress_FX2"
+    ],
+    [
+      "63918e02-2e47-48d0-bbb9-fd752ccc3b47",
+      "D+-2"
+    ],
+    [
       "76589cf2-0f03-4a98-ab92-ed5753ed4fd7",
       "MUX"
+    ],
+    [
+      "845eae9c-e6cd-483e-8ea7-d8fa122a86af",
+      "VDC_SW"
     ],
     [
       "adaa3f42-a370-4a4c-b378-51d1ea5352f8",
