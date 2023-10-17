@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.39999999999999997
         }
       },
       "diff_pair_dimensions": [
@@ -474,6 +474,14 @@
       {
         "netclass": "USB",
         "pattern": "/VDC_SW1/+24V"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/GND"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "GND"
       }
     ]
   },
