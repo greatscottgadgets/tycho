@@ -482,6 +482,10 @@
       {
         "netclass": "USB",
         "pattern": "GND"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/VBUS_TA"
       }
     ]
   },
