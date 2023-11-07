@@ -717,6 +717,10 @@
         (stroke (width 0) (type default))
         (fill (type background))
       )
+      (pin passive line (at 2.54 -11.43 90) (length 2.54) hide
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "13" (effects (font (size 1.27 1.27))))
+      )
     )
   )
   (symbol "MAX306" (in_bom yes) (on_board yes)
