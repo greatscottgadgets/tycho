@@ -255,6 +255,10 @@
           (stroke (width 0) (type default))
           (fill (type background))
         )
+        (pin passive line (at 2.54 -11.43 90) (length 2.54) hide
+          (name "GND" (effects (font (size 1.27 1.27))))
+          (number "13" (effects (font (size 1.27 1.27))))
+        )
       )
     )
   )
@@ -588,6 +592,7 @@
     (pin "7" (uuid 7307976f-6041-4348-8598-54bbaf1dfe1f))
     (pin "8" (uuid 16008b2d-8575-4866-a64e-3c1befede060))
     (pin "9" (uuid 8c36693f-2920-44bc-9c70-28916c10f37d))
+    (pin "13" (uuid d33dd2c1-a3a4-42c9-bebe-5f29119aa7ae))
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
