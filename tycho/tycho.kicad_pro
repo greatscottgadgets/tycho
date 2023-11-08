@@ -619,12 +619,12 @@
       "Boost_converter"
     ],
     [
-      "2fca0f18-9772-4836-b2f7-4f1497e4f9c1",
-      "VBUS"
-    ],
-    [
       "7e3c18dc-3e23-40bb-9067-61452c91b47e",
       "HOST_VBUS_EN"
+    ],
+    [
+      "2fca0f18-9772-4836-b2f7-4f1497e4f9c1",
+      "VBUS"
     ],
     [
       "b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734",
@@ -648,7 +648,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2023-09-08",
-    "VERSION": "r1.1.0"
+    "DATE": "2023-11-08",
+    "VERSION": "r2.0.0"
   }
 }
