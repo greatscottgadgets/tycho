@@ -1909,12 +1909,12 @@
         )
       )
     )
-    (symbol "tycho:TLV9061" (in_bom yes) (on_board yes)
+    (symbol "tycho:TLV9061S" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "" (at 0 0 0)
-        (effects (font (size 1.27 1.27)))
+      (property "Value" "TLV9061S" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
       )
       (property "Footprint" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -1922,7 +1922,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "TLV9061_0_1"
+      (symbol "TLV9061S_0_1"
         (polyline
           (pts
             (xy -2.54 5.08)
@@ -1934,7 +1934,13 @@
           (fill (type background))
         )
       )
-      (symbol "TLV9061_1_1"
+      (symbol "TLV9061S_1_0"
+        (pin passive line (at 0 7.62 270) (length 3.81) hide
+          (name "~{SHDN}" (effects (font (size 1.27 1.27))))
+          (number "5" (effects (font (size 1.27 1.27))))
+        )
+      )
+      (symbol "TLV9061S_1_1"
         (pin output line (at 10.16 0 180) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -1953,7 +1959,7 @@
         )
         (pin power_in line (at 0 7.62 270) (length 3.81)
           (name "V+" (effects (font (size 1.27 1.27))))
-          (number "5" (effects (font (size 1.27 1.27))))
+          (number "6" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -6447,7 +6453,7 @@
     )
   )
 
-  (symbol (lib_id "tycho:TLV9061") (at 530.86 119.38 0) (unit 1)
+  (symbol (lib_id "tycho:TLV9061S") (at 530.86 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a544d4f6-bd2d-471d-afd6-9ca2284f0caf)
     (property "Reference" "U11" (at 527.05 111.76 0)
@@ -6471,11 +6477,12 @@
     (property "Description" "IC CMOS 1 CIRCUIT SOT23-6" (at 530.86 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "5" (uuid fce97148-3194-4466-a4a6-9d9e7d2afc20))
     (pin "1" (uuid 6b39eb16-414c-44da-bd68-f26dc28bf362))
     (pin "2" (uuid d0d94a4e-4992-49b8-aab3-9988d9ee9745))
     (pin "3" (uuid 6ae5e200-8842-4eb5-bf17-f22f799aad5e))
     (pin "4" (uuid d2c38b6a-7659-4907-85cd-f6fda8e59e9a))
-    (pin "5" (uuid fce97148-3194-4466-a4a6-9d9e7d2afc20))
+    (pin "6" (uuid 2f9d9c2d-0441-4643-8cbf-b5e5e157c991))
     (instances
       (project "tycho"
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"

@@ -1750,12 +1750,12 @@
       )
     )
   )
-  (symbol "TLV9061" (in_bom yes) (on_board yes)
+  (symbol "TLV9061S" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
+    (property "Value" "TLV9061S" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1763,7 +1763,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TLV9061_0_1"
+    (symbol "TLV9061S_0_1"
       (polyline
         (pts
           (xy -2.54 5.08)
@@ -1775,7 +1775,13 @@
         (fill (type background))
       )
     )
-    (symbol "TLV9061_1_1"
+    (symbol "TLV9061S_1_0"
+      (pin passive line (at 0 7.62 270) (length 3.81) hide
+        (name "~{SHDN}" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+    )
+    (symbol "TLV9061S_1_1"
       (pin output line (at 10.16 0 180) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1794,7 +1800,7 @@
       )
       (pin power_in line (at 0 7.62 270) (length 3.81)
         (name "V+" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
       )
     )
   )
