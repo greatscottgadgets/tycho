@@ -1,7 +1,7 @@
 (kicad_pcb (version 20221018) (generator pcbnew)
 
   (general
-    (thickness 1.567)
+    (thickness 1.637)
   )
 
   (paper "A2")
@@ -42,15 +42,15 @@
     (stackup
       (layer "F.SilkS" (type "Top Silk Screen") (color "White"))
       (layer "F.Paste" (type "Top Solder Paste"))
-      (layer "F.Mask" (type "Top Solder Mask") (color "Purple") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
-      (layer "F.Cu" (type "copper") (thickness 0.0432))
-      (layer "dielectric 1" (type "prepreg") (color "FR4 natural") (thickness 0.2021) (material "FR408-HR") (epsilon_r 3.69) (loss_tangent 0.0091))
-      (layer "In1.Cu" (type "copper") (thickness 0.0175))
-      (layer "dielectric 2" (type "core") (thickness 0.9906) (material "FR4") (epsilon_r 4.6) (loss_tangent 0.02))
-      (layer "In2.Cu" (type "copper") (thickness 0.0175))
-      (layer "dielectric 3" (type "prepreg") (color "FR4 natural") (thickness 0.2021) (material "FR408-HR") (epsilon_r 3.69) (loss_tangent 0.0091))
-      (layer "B.Cu" (type "copper") (thickness 0.0432))
-      (layer "B.Mask" (type "Bottom Solder Mask") (color "Purple") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "F.Mask" (type "Top Solder Mask") (color "Green") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "F.Cu" (type "copper") (thickness 0.035))
+      (layer "dielectric 1" (type "prepreg") (color "FR4 natural") (thickness 0.2104) (material "7628") (epsilon_r 4.4) (loss_tangent 0))
+      (layer "In1.Cu" (type "copper") (thickness 0.0152))
+      (layer "dielectric 2" (type "core") (thickness 1.065) (material "FR4") (epsilon_r 4.6) (loss_tangent 0.02))
+      (layer "In2.Cu" (type "copper") (thickness 0.0152))
+      (layer "dielectric 3" (type "prepreg") (color "FR4 natural") (thickness 0.2104) (material "7628") (epsilon_r 4.4) (loss_tangent 0))
+      (layer "B.Cu" (type "copper") (thickness 0.035))
+      (layer "B.Mask" (type "Bottom Solder Mask") (color "Green") (thickness 0.0254) (material "Liquid Ink") (epsilon_r 3.3) (loss_tangent 0))
       (layer "B.Paste" (type "Bottom Solder Paste"))
       (layer "B.SilkS" (type "Bottom Silk Screen") (color "White"))
       (copper_finish "Immersion gold")
