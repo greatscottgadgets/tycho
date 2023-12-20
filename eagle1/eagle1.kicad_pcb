@@ -1,7 +1,7 @@
 (kicad_pcb (version 20221018) (generator pcbnew)
 
   (general
-    (thickness 0.2224)
+    (thickness 0.2478)
   )
 
   (paper "A1")
@@ -43,7 +43,7 @@
       (layer "F.Paste" (type "Top Solder Paste"))
       (layer "F.Mask" (type "Top Solder Mask") (thickness 0.0254))
       (layer "F.Cu" (type "copper") (thickness 0.035))
-      (layer "dielectric 1" (type "core") (color "Polyimide") (thickness 0.1016) (material "Polyimide") (epsilon_r 3.2) (loss_tangent 0.004))
+      (layer "dielectric 1" (type "core") (color "Polyimide") (thickness 0.127) (material "Polyimide") (epsilon_r 3.2) (loss_tangent 0.004))
       (layer "B.Cu" (type "copper") (thickness 0.035))
       (layer "B.Mask" (type "Bottom Solder Mask") (thickness 0.0254))
       (layer "B.Paste" (type "Bottom Solder Paste"))
@@ -413,7 +413,7 @@
   (gr_text "COVERLAY" (at 320.55 42.5) (layer "Cmts.User") (tstamp 25167a70-c08f-4b47-8c47-e44b6c5a30fd)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "order of copper/non-copper layers:\n    Layer 1 (non-copper): F.Stiffiner\n    Layer 2 (copper):     F.Cu\n    Layer 3 (copper):     B.Cu\n    Layer 4 (non-copper): B.Stiffiner\n\nPCB description: 2 layer PCB 0.2224 mm\n    Copper 1: 0.035 mm\n    Dielectric 1: polymide 0.10160 mm\n    Copper 2: 0.035 mm\n\npolymide substrate with Er=3.2\nFR4 Stiffener\nrequired differential microstrip impedance:\n    7 mil trace, 7 mil space: 90 ohm (±10%)\ntwo sided solder mask\ntwo sided silkscreen\ntwo sided assembly\n7 mil minimum trace width\n7 mil minimum isolation\n0.1 mm minimum drill\n0.2 mm board edge routing tolerance" (at 30.55 81.6) (layer "F.Fab") (tstamp 53313600-cee4-4428-8dac-de0360b2d84d)
+  (gr_text "order of copper/non-copper layers:\n    Layer 1 (non-copper): F.Stiffiner\n    Layer 2 (copper):     F.Cu\n    Layer 3 (copper):     B.Cu\n    Layer 4 (non-copper): B.Stiffiner\n\nPCB description: 2 layer PCB 0.2224 mm\n    Copper 1: 0.035 mm\n    Dielectric 1: polymide 0.127 mm\n    Copper 2: 0.035 mm\n\npolymide substrate with Er=3.2\nFR4 Stiffener\nrequired differential microstrip impedance:\n    7 mil trace, 7 mil space: 90 ohm (±10%)\ntwo sided solder mask\ntwo sided silkscreen\ntwo sided assembly\n7 mil minimum trace width\n7 mil minimum isolation\n0.1 mm minimum drill\n0.2 mm board edge routing tolerance" (at 30.55 81.6) (layer "F.Fab") (tstamp 53313600-cee4-4428-8dac-de0360b2d84d)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (dimension (type aligned) (layer "B.Adhes") (tstamp 993c55fe-75ab-425e-91d8-b378e357f5a3)
