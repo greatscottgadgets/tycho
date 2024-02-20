@@ -10,11 +10,14 @@
 *~
 tycho/tycho-backups/*
 sasserides/sasserides-backups/*
+eagle1/eagle1-backups/*
 _autosave-*
 *.tmp
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+
+
 
 # Netlist files (exported from Eeschema)
 *.net
