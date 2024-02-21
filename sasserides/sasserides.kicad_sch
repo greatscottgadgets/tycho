@@ -782,7 +782,6 @@
     )
   )
 
-
   (junction (at 49.53 113.03) (diameter 0) (color 0 0 0 0)
     (uuid 25c2b51f-a8cf-4d01-943d-88c0d6b78f0f)
   )
@@ -1544,7 +1543,7 @@
     (property "Value" "Conn_02x16_Odd_Even" (at 78.74 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" (at 80.01 72.39 0)
+    (property "Footprint" "tycho:shrouded_pin-header_2x17" (at 80.01 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 80.01 72.39 0)
