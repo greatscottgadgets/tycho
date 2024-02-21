@@ -190,11 +190,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "label_dangling|927100|571500|355df157-b3fa-4829-9fad-476d013d8b07|00000000-0000-0000-0000-000000000000|||",
-      "label_dangling|927100|596900|1ea2ec1e-f547-4bc4-99e8-ec68e41e5db4|00000000-0000-0000-0000-000000000000|||",
-      "label_dangling|927100|622300|7ccdc589-0a32-47f1-b257-37cc6c6b85d8|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
