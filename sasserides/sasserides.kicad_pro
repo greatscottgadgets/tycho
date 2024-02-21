@@ -492,6 +492,6 @@
   ],
   "text_variables": {
     "DATE": "2023-05-25",
-    "VERSION": "r1.0.0"
+    "VERSION": "r1.0.0+"
   }
 }

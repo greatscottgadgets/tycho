@@ -98,7 +98,7 @@
   )
 
   (property "DATE" "2023-05-25")
-  (property "VERSION" "r1.0.0")
+  (property "VERSION" "r1.0.0+")
 
   (net 0 "")
   (net 1 "Net-(D1-K)")
@@ -5170,7 +5170,7 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 025355f5-9e37-4417-88f1-63aa6d5111fc))
   (gr_rect (start 60 60) (end 140 140)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1ec7d0d5-da41-4c65-915e-b493203a7acf))
-  (gr_text "rev 1.0.0" (at 136.59 127.78 90) (layer "F.SilkS") (tstamp 00be7b1e-7bb7-49e5-bb4d-15ef83fd07ce)
+  (gr_text "rev 1.0.0+" (at 136.59 127.78 90) (layer "F.SilkS") (tstamp 00be7b1e-7bb7-49e5-bb4d-15ef83fd07ce)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "rev 1.0.0" (at 226.69 127.75 90) (layer "F.SilkS") (tstamp 18eb83bf-dd8c-4b8d-9b4d-d03705b29968)
