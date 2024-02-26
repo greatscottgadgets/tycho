@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -92,7 +92,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -172,7 +172,9 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.4,
+        1.0
       ],
       "via_dimensions": [
         {
@@ -190,11 +192,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "label_dangling|927100|571500|355df157-b3fa-4829-9fad-476d013d8b07|00000000-0000-0000-0000-000000000000|||",
-      "label_dangling|927100|596900|1ea2ec1e-f547-4bc4-99e8-ec68e41e5db4|00000000-0000-0000-0000-000000000000|||",
-      "label_dangling|927100|622300|7ccdc589-0a32-47f1-b257-37cc6c6b85d8|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -397,7 +395,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -491,7 +489,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2023-05-25",
-    "VERSION": "r1.0.0"
+    "DATE": "2024-02-26",
+    "VERSION": "r1.0.0+"
   }
 }
