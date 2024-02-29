@@ -1342,7 +1342,7 @@
   (symbol (lib_id "Device:C") (at 96.52 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 043fc826-b524-4d59-8a33-4cdb195c7d04)
-    (property "Reference" "C1" (at 95.885 130.175 0)
+    (property "Reference" "C31" (at 95.885 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 95.885 134.62 0)
@@ -1367,12 +1367,6 @@
     (pin "2" (uuid 156645ac-d60b-4115-9968-19d4729a3de5))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C31") (unit 1)
         )
@@ -1383,7 +1377,7 @@
   (symbol (lib_id "power:GND") (at 209.55 40.64 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07465494-f531-402e-a6d8-bec911bf2f63)
-    (property "Reference" "#PWR013" (at 203.2 40.64 0)
+    (property "Reference" "#PWR014" (at 203.2 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 206.3751 40.64 90)
@@ -1398,9 +1392,6 @@
     (pin "1" (uuid 20046a21-3494-4a40-b460-0952957b6fd8))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR014") (unit 1)
         )
@@ -1411,7 +1402,7 @@
   (symbol (lib_id "Device:C") (at 121.92 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 11294b8a-df2e-4cdc-8bc8-c6ed32b5bd37)
-    (property "Reference" "C1" (at 121.285 130.175 0)
+    (property "Reference" "C37" (at 121.285 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 121.285 134.62 0)
@@ -1436,12 +1427,6 @@
     (pin "2" (uuid 93a03eb5-97e2-4b2f-b4b2-dd61cb2642e2))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C37") (unit 1)
         )
@@ -1477,7 +1462,7 @@
   (symbol (lib_id "power:GND") (at 132.08 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26070d85-eeba-48db-8a61-e74033843226)
-    (property "Reference" "#PWR014" (at 132.08 86.36 0)
+    (property "Reference" "#PWR076" (at 132.08 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 133.985 83.82 0)
@@ -1492,9 +1477,6 @@
     (pin "1" (uuid 17836839-ff76-498b-8960-6bf8c854e134))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR076") (unit 1)
         )
@@ -1505,7 +1487,7 @@
   (symbol (lib_id "power:GND") (at 109.22 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 376c7e29-b7a4-4bd3-95c1-fec3e5d0b774)
-    (property "Reference" "#PWR014" (at 109.22 92.71 0)
+    (property "Reference" "#PWR086" (at 109.22 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 111.125 90.17 0)
@@ -1520,9 +1502,6 @@
     (pin "1" (uuid dc38b12e-5724-4ec9-837c-5e74d96c264a))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR086") (unit 1)
         )
@@ -1533,7 +1512,7 @@
   (symbol (lib_id "power:GND") (at 181.61 121.92 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3a42493a-833e-43dc-bcef-a3eb554b6d40)
-    (property "Reference" "#PWR014" (at 181.61 115.57 0)
+    (property "Reference" "#PWR083" (at 181.61 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 179.705 118.11 0)
@@ -1548,9 +1527,6 @@
     (pin "1" (uuid 80bbbdd1-2cd3-4ed1-9c98-ca9c438df34a))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR083") (unit 1)
         )
@@ -1561,7 +1537,7 @@
   (symbol (lib_id "power:GND") (at 181.61 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ab18102-a3f4-4fc6-85f3-46b1a762165b)
-    (property "Reference" "#PWR014" (at 181.61 142.24 0)
+    (property "Reference" "#PWR082" (at 181.61 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 183.515 139.7 0)
@@ -1576,9 +1552,6 @@
     (pin "1" (uuid a2266053-4de7-48b2-90eb-d8609d826629))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR082") (unit 1)
         )
@@ -1674,7 +1647,7 @@
   (symbol (lib_id "Device:R") (at 204.47 100.33 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54b656b3-3a29-4440-945b-1f624a6c0d50)
-    (property "Reference" "R51" (at 204.47 102.87 90)
+    (property "Reference" "R53" (at 204.47 102.87 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2K7" (at 204.47 100.33 90)
@@ -1699,9 +1672,6 @@
     (pin "2" (uuid e4d75d48-59b0-4fa5-bf16-da299ed6d08e))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R51") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "R53") (unit 1)
         )
@@ -1712,7 +1682,7 @@
   (symbol (lib_id "Device:C") (at 113.03 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 57d4a48b-5786-420c-8792-8357bde6bccc)
-    (property "Reference" "C1" (at 112.395 130.175 0)
+    (property "Reference" "C36" (at 112.395 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 112.395 134.62 0)
@@ -1737,12 +1707,6 @@
     (pin "2" (uuid a49dba72-aa6c-4ae8-9cf9-6b5faf153a01))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C36") (unit 1)
         )
@@ -1778,7 +1742,7 @@
   (symbol (lib_id "power:GND") (at 172.72 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 60d01228-2d19-4d0f-8377-362211d70be1)
-    (property "Reference" "#PWR014" (at 172.72 81.28 0)
+    (property "Reference" "#PWR087" (at 172.72 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 174.625 78.74 0)
@@ -1793,9 +1757,6 @@
     (pin "1" (uuid 4708908a-352d-47c0-ae3e-03f0fadcc318))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR087") (unit 1)
         )
@@ -1806,7 +1767,7 @@
   (symbol (lib_id "power:GND") (at 198.12 107.95 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 633f4510-c797-42b3-9020-6045717402c0)
-    (property "Reference" "#PWR014" (at 191.77 107.95 0)
+    (property "Reference" "#PWR079" (at 191.77 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 194.31 107.95 90)
@@ -1821,9 +1782,6 @@
     (pin "1" (uuid 98e5378d-1f9c-4a7f-ae2e-3689004450b5))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR079") (unit 1)
         )
@@ -1859,7 +1817,7 @@
   (symbol (lib_id "power:GND") (at 189.23 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 657d5a06-172a-4727-80e4-b234d9401a9a)
-    (property "Reference" "#PWR014" (at 189.23 146.05 0)
+    (property "Reference" "#PWR085" (at 189.23 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 191.135 143.51 0)
@@ -1874,9 +1832,6 @@
     (pin "1" (uuid 8c8699f2-08b8-4c5c-8e09-f11d271fd025))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR085") (unit 1)
         )
@@ -1887,7 +1842,7 @@
   (symbol (lib_id "Device:R") (at 109.22 80.01 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b9555aa-e6c9-4416-8dce-7e9131cadf14)
-    (property "Reference" "R45" (at 107.315 80.645 0)
+    (property "Reference" "R54" (at 107.315 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 109.22 78.74 90)
@@ -1915,12 +1870,6 @@
     (pin "2" (uuid 80d1a355-9346-43f2-bc45-75850e0e76b5))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
-          (reference "R45") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R3") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "R54") (unit 1)
         )
@@ -1931,7 +1880,7 @@
   (symbol (lib_id "Device:C") (at 80.01 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d85c668-c28c-462e-8a98-304c3c9397b3)
-    (property "Reference" "C1" (at 79.375 130.175 0)
+    (property "Reference" "C6" (at 79.375 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 79.375 134.62 0)
@@ -1956,12 +1905,6 @@
     (pin "2" (uuid ca7cca50-2e47-43b2-b46f-e3c11fa8c285))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C6") (unit 1)
         )
@@ -1972,7 +1915,7 @@
   (symbol (lib_id "power:GND") (at 64.77 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78b0af54-545b-45ac-a748-bf019b3dca3d)
-    (property "Reference" "#PWR014" (at 64.77 143.51 0)
+    (property "Reference" "#PWR015" (at 64.77 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 66.675 140.97 0)
@@ -1987,9 +1930,6 @@
     (pin "1" (uuid 724ad25e-32f4-4c66-9e6a-a668523804ad))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR015") (unit 1)
         )
@@ -2000,7 +1940,7 @@
   (symbol (lib_id "Device:R") (at 201.93 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c0e1b67-8561-4616-82d0-1602a2e574c4)
-    (property "Reference" "R19" (at 203.835 69.85 90)
+    (property "Reference" "R52" (at 203.835 69.85 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2k" (at 203.835 67.31 90)
@@ -2028,9 +1968,6 @@
     (pin "2" (uuid d22ebe72-02f9-4fb0-afed-c508062dadac))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "R19") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "R52") (unit 1)
         )
@@ -2066,7 +2003,7 @@
   (symbol (lib_id "power:GND") (at 160.02 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 84379f22-0127-46ca-a117-9c7fd0bcfef7)
-    (property "Reference" "#PWR014" (at 160.02 76.2 0)
+    (property "Reference" "#PWR090" (at 160.02 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 161.925 73.66 0)
@@ -2081,9 +2018,6 @@
     (pin "1" (uuid 8548cba5-44bf-4607-9bba-1e9d841a746c))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR090") (unit 1)
         )
@@ -2094,7 +2028,7 @@
   (symbol (lib_id "MCU_Cypress:CY7C68013A-56LTX") (at 228.6 92.71 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 84f59ab0-73a9-44eb-940f-e84359dc3416)
-    (property "Reference" "U1" (at 230.7941 145.1143 0)
+    (property "Reference" "U2" (at 230.7941 145.1143 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "CY7C68013A-56LTX" (at 230.7941 142.6901 0)
@@ -2174,9 +2108,6 @@
     (pin "9" (uuid 28a794a3-6a00-4b7f-82ec-e3f754dfcffe))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "U1") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "U2") (unit 1)
         )
@@ -2187,7 +2118,7 @@
   (symbol (lib_id "power:GND") (at 120.65 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 877b2484-5605-486c-90aa-b29948e5740f)
-    (property "Reference" "#PWR014" (at 120.65 86.36 0)
+    (property "Reference" "#PWR013" (at 120.65 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 122.555 83.82 0)
@@ -2202,9 +2133,6 @@
     (pin "1" (uuid 0f721c04-3934-4445-a58b-cfd3fc14e227))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR013") (unit 1)
         )
@@ -2285,7 +2213,7 @@
   (symbol (lib_id "Device:C") (at 88.9 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e76fff8-5bef-45f8-8ad0-7e8549e56aba)
-    (property "Reference" "C1" (at 88.265 130.175 0)
+    (property "Reference" "C30" (at 88.265 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 88.265 134.62 0)
@@ -2310,12 +2238,6 @@
     (pin "2" (uuid b146a07f-5fc5-4fd2-b45d-2dbfd08ccec1))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C30") (unit 1)
         )
@@ -2326,7 +2248,7 @@
   (symbol (lib_id "Regulator_Linear:MIC5504-3.3YM5") (at 120.65 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f44a365-54e6-4d4b-88ca-e2b91ffb5949)
-    (property "Reference" "U2" (at 120.65 61.8957 0)
+    (property "Reference" "U1" (at 120.65 61.8957 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MIC5504-3.3YM5" (at 120.65 64.3199 0)
@@ -2354,9 +2276,6 @@
     (pin "5" (uuid 594196d5-6c37-4122-b5c9-1bb1a39d6073))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "U2") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "U1") (unit 1)
         )
@@ -2367,7 +2286,7 @@
   (symbol (lib_id "power:GND") (at 109.22 54.61 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a1492d2a-d0c4-41e2-8344-1568138c52b4)
-    (property "Reference" "#PWR014" (at 109.22 48.26 0)
+    (property "Reference" "#PWR078" (at 109.22 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 107.315 50.8 0)
@@ -2382,9 +2301,6 @@
     (pin "1" (uuid 4a6ab707-ce5b-453e-8215-d4aa3592d120))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR078") (unit 1)
         )
@@ -2395,7 +2311,7 @@
   (symbol (lib_id "Device:R") (at 182.88 97.79 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a20469d2-af27-4aef-a0aa-da36bc892c0b)
-    (property "Reference" "R21" (at 180.975 95.25 90)
+    (property "Reference" "R46" (at 180.975 95.25 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 180.34 97.79 90)
@@ -2423,18 +2339,6 @@
     (pin "2" (uuid d8425aae-0de3-4c5d-a070-c90096a73775))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/2fca0f18-9772-4836-b2f7-4f1497e4f9c1"
-          (reference "R21") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/5f00af97-c234-4829-ac52-35727646fc48"
-          (reference "R27") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
-          (reference "R33") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R46") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "R46") (unit 1)
         )
@@ -2485,7 +2389,7 @@
   (symbol (lib_id "Device:C") (at 129.54 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a7bae466-0734-44d5-9a1f-6387fc021f60)
-    (property "Reference" "C1" (at 128.905 130.175 0)
+    (property "Reference" "C38" (at 128.905 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 128.905 134.62 0)
@@ -2510,12 +2414,6 @@
     (pin "2" (uuid 20dfb1f7-3208-42ac-9bd4-a93a809886ec))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C38") (unit 1)
         )
@@ -2526,7 +2424,7 @@
   (symbol (lib_id "Device:C") (at 72.39 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid af198024-1db7-4243-aaea-e1d30b16f9d1)
-    (property "Reference" "C1" (at 71.755 130.175 0)
+    (property "Reference" "C5" (at 71.755 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 71.755 134.62 0)
@@ -2551,12 +2449,6 @@
     (pin "2" (uuid c9f1fcf1-25cd-40a7-b51e-c699daa0429b))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C5") (unit 1)
         )
@@ -2567,7 +2459,7 @@
   (symbol (lib_id "Device:C") (at 105.41 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b218fa71-5ae8-4450-a2b3-0733ac344a05)
-    (property "Reference" "C1" (at 104.775 130.175 0)
+    (property "Reference" "C33" (at 104.775 130.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 104.775 134.62 0)
@@ -2592,12 +2484,6 @@
     (pin "2" (uuid 434e83f1-eaa0-4c5e-96cf-1eff31e3d006))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C1") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "C24") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "C33") (unit 1)
         )
@@ -2693,7 +2579,7 @@
   (symbol (lib_id "Device:R") (at 182.88 73.66 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c8154ea0-82c3-4568-a668-306415366fbd)
-    (property "Reference" "R45" (at 180.975 74.295 0)
+    (property "Reference" "R55" (at 180.975 74.295 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 182.88 72.39 90)
@@ -2721,12 +2607,6 @@
     (pin "2" (uuid a4a13ddc-b7d9-474a-aabf-76c4faced91f))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
-          (reference "R45") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R3") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "R55") (unit 1)
         )
@@ -2737,7 +2617,7 @@
   (symbol (lib_id "power:GND") (at 182.88 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c84cdf63-8e7e-42d1-a4fa-0993fb0c5622)
-    (property "Reference" "#PWR014" (at 182.88 85.09 0)
+    (property "Reference" "#PWR091" (at 182.88 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.785 82.55 0)
@@ -2752,9 +2632,6 @@
     (pin "1" (uuid 70d99f5a-d846-4fcd-a5cb-7dc9bd7407dd))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR091") (unit 1)
         )
@@ -2802,7 +2679,7 @@
   (symbol (lib_id "Device:R") (at 201.93 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8f1e939-7695-4c19-8995-6e6220ef75ea)
-    (property "Reference" "R19" (at 203.835 57.15 90)
+    (property "Reference" "R51" (at 203.835 57.15 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2k" (at 203.835 59.69 90)
@@ -2830,9 +2707,6 @@
     (pin "2" (uuid 81bf3328-e68e-4242-a309-0a9479abcd5b))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/175ec40e-e1eb-4798-86e4-603e661ed6e0"
-          (reference "R19") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "R51") (unit 1)
         )
@@ -2878,7 +2752,7 @@
   (symbol (lib_id "power:GND") (at 172.72 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec041b7f-9988-45c6-83f4-8b54631d7098)
-    (property "Reference" "#PWR014" (at 172.72 146.05 0)
+    (property "Reference" "#PWR084" (at 172.72 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 174.625 143.51 0)
@@ -2893,9 +2767,6 @@
     (pin "1" (uuid 7c1a1d97-6d58-4944-bb62-5ab09f5bb6ae))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b3c8fc2b-e9c9-4d47-a73a-55bc7ffe8734"
           (reference "#PWR084") (unit 1)
         )
