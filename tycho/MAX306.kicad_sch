@@ -577,9 +577,6 @@
     (pin "1" (uuid 754e4d8f-6285-4fad-8ee1-f45fbf366285))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR062") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/fd07ceac-db1b-4660-8991-f4b887546035"
           (reference "#PWR062") (unit 1)
         )
@@ -649,7 +646,7 @@
   (symbol (lib_id "Device:R") (at 187.96 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 64c26143-6fc8-44d5-831c-2a6248da5e84)
-    (property "Reference" "R?" (at 183.515 112.395 0)
+    (property "Reference" "R61" (at 183.515 112.395 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 187.96 113.03 90)
@@ -677,12 +674,6 @@
     (pin "2" (uuid 2dc9573a-6721-4c3b-9c51-f33161a211f7))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/222b4080-8d34-44ed-a5b0-a264978495bc"
-          (reference "R?") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/b101adbb-56d2-408d-a053-b060f8f597ee"
-          (reference "R?") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/76589cf2-0f03-4a98-ab92-ed5753ed4fd7"
           (reference "R61") (unit 1)
         )
@@ -760,7 +751,7 @@
   (symbol (lib_id "power:+24V") (at 133.35 81.28 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af0a1627-dbc3-481a-86e0-8b93866bc2df)
-    (property "Reference" "#PWR070" (at 137.16 81.28 0)
+    (property "Reference" "#PWR097" (at 137.16 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (at 130.175 81.28 90)
@@ -775,9 +766,6 @@
     (pin "1" (uuid a1a74561-96c3-4add-80ec-b38cc290ca20))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR070") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/fd07ceac-db1b-4660-8991-f4b887546035"
           (reference "#PWR097") (unit 1)
         )
@@ -819,7 +807,7 @@
   (symbol (lib_id "Device:C") (at 139.7 76.2 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fcce0a19-209f-4a81-b3b1-c85671c43ae5)
-    (property "Reference" "C?" (at 135.89 74.93 90)
+    (property "Reference" "C35" (at 135.89 74.93 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 133.35 73.66 90)
@@ -844,12 +832,6 @@
     (pin "2" (uuid b610c5ca-7f69-42b2-841f-258cb6d65fa1))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/adaa3f42-a370-4a4c-b378-51d1ea5352f8"
-          (reference "C?") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "C34") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/fd07ceac-db1b-4660-8991-f4b887546035"
           (reference "C35") (unit 1)
         )

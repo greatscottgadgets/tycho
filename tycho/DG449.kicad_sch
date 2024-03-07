@@ -211,7 +211,7 @@
   (symbol (lib_id "power:+24V") (at 137.16 111.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49a19350-f2a3-4ad6-9135-5750db4be5d9)
-    (property "Reference" "#PWR070" (at 140.97 111.76 0)
+    (property "Reference" "#PWR089" (at 140.97 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (at 133.985 111.76 90)
@@ -226,9 +226,6 @@
     (pin "1" (uuid d3f2a337-e1dd-4767-8f0f-0234f3919f16))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR070") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/6d08e03c-4f34-4618-a021-d4fe7d47286c"
           (reference "#PWR089") (unit 1)
         )
@@ -257,9 +254,6 @@
     (pin "1" (uuid 5fecaa65-b675-413c-978c-375d3e6bdc28))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR059") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/845eae9c-e6cd-483e-8ea7-d8fa122a86af"
           (reference "#PWR059") (unit 1)
         )
@@ -304,9 +298,6 @@
     (pin "1" (uuid 191db20f-266f-4e50-b6c7-1d135beaeadd))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "U14") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/845eae9c-e6cd-483e-8ea7-d8fa122a86af"
           (reference "U14") (unit 1)
         )
@@ -335,9 +326,6 @@
     (pin "1" (uuid f45828c1-a4d6-4d5c-a528-3c44f24b489f))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR039") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/845eae9c-e6cd-483e-8ea7-d8fa122a86af"
           (reference "#PWR039") (unit 1)
         )

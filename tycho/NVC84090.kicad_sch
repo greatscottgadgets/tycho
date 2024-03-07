@@ -312,7 +312,7 @@
   (symbol (lib_id "power:GND") (at 166.37 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38e51644-7b88-4cc9-9e8e-430047e3b04b)
-    (property "Reference" "#PWR051" (at 172.72 93.98 0)
+    (property "Reference" "#PWR09" (at 172.72 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 169.545 94.2968 90)
@@ -327,9 +327,6 @@
     (pin "1" (uuid 04aa44b7-176f-4fa4-9b97-6d6fd55f70ac))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR051") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "#PWR09") (unit 1)
         )
@@ -358,9 +355,6 @@
     (pin "1" (uuid d6cec2b8-8a99-4551-b50f-4d819b56c614))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR023") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "#PWR023") (unit 1)
         )
@@ -374,7 +368,7 @@
   (symbol (lib_id "Device:R") (at 161.29 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5af001ca-c203-4f57-b702-e173548a3ab9)
-    (property "Reference" "R24" (at 162.1247 95.758 0)
+    (property "Reference" "R43" (at 162.1247 95.758 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 159.5878 95.758 0)
@@ -402,18 +396,6 @@
     (pin "2" (uuid 6059a26b-998a-4e99-b3b1-894655294496))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/2fca0f18-9772-4836-b2f7-4f1497e4f9c1"
-          (reference "R24") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/5f00af97-c234-4829-ac52-35727646fc48"
-          (reference "R30") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
-          (reference "R36") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R9") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "R43") (unit 1)
         )
@@ -457,9 +439,6 @@
     (pin "2" (uuid 91fa91a0-7968-42f5-a567-997d3cd5e494))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "D4") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "D4") (unit 1)
         )
@@ -488,9 +467,6 @@
     (pin "1" (uuid 54ca0791-835e-4abd-8e6c-e4e375a9f5f6))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "#PWR051") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "#PWR051") (unit 1)
         )
@@ -504,7 +480,7 @@
   (symbol (lib_id "Device:R") (at 160.02 106.68 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9fced751-f3f1-4801-9129-baba36ddf9a2)
-    (property "Reference" "R38" (at 165.1 105.41 90)
+    (property "Reference" "R9" (at 165.1 105.41 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 160.02 106.68 90)
@@ -532,9 +508,6 @@
     (pin "2" (uuid b9ef5549-80b7-40bb-a010-b00963a72cbb))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R38") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "R9") (unit 1)
         )
@@ -584,9 +557,6 @@
     (pin "1" (uuid 1b7e01c4-6897-45e8-8632-f44d90b34160))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "U5") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "U5") (unit 1)
         )
@@ -600,7 +570,7 @@
   (symbol (lib_id "Device:R") (at 160.02 109.22 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c99a26cb-0c7d-4c62-a542-a76f3a01c529)
-    (property "Reference" "R24" (at 160.8547 110.998 0)
+    (property "Reference" "R38" (at 160.8547 110.998 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 158.3178 110.998 0)
@@ -628,18 +598,6 @@
     (pin "2" (uuid 7c8a56cc-0bc1-43ff-bed0-4abbc257e316))
     (instances
       (project "tycho"
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/2fca0f18-9772-4836-b2f7-4f1497e4f9c1"
-          (reference "R24") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/5f00af97-c234-4829-ac52-35727646fc48"
-          (reference "R30") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/774bfd13-694d-4fe5-9617-36d1fb421477"
-          (reference "R36") (unit 1)
-        )
-        (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5"
-          (reference "R9") (unit 1)
-        )
         (path "/4ed1cbaf-15e8-40e5-8366-86487d525fd5/7e3c18dc-3e23-40bb-9067-61452c91b47e"
           (reference "R38") (unit 1)
         )
