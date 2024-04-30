@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.28,
-          "width": 0.52
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -648,7 +648,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2024-03-07",
-    "VERSION": "r2.0.1"
+    "DATE": "2024-04-29",
+    "VERSION": "r2.0.1+"
   }
 }
