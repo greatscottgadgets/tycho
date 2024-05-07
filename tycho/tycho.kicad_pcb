@@ -95,8 +95,8 @@
     )
   )
 
-  (property "DATE" "2024-04-29")
-  (property "VERSION" "r2.0.1+")
+  (property "DATE" "2024-05-01")
+  (property "VERSION" "r2.0.2")
 
   (net 0 "")
   (net 1 "GND")
